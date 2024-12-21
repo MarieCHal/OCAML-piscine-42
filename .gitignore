@@ -4,9 +4,6 @@
 *.o
 *.cmx
 
-# executables
-ft_test_sign
-ft_countdown
-ft_power
-ft_print_alphabet
-ft_print_comb
+# Ignore all files without an extension (executables)
+*
+
