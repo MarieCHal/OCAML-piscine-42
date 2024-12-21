@@ -4,6 +4,3 @@
 *.o
 *.cmx
 
-# Ignore all files without an extension (executables)
-*
-
